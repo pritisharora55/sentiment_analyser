@@ -1,6 +1,6 @@
 # sentiment_analyser
 
-This repository conatians an implementation for a text classification system for sentiment analysis. The classifier has been/can be trained on data provided in the form of positive and negative reviews. The developed system takes reviews as test data and categorizes them as positive or negative.
+This repository contains an implementation for a text classification system for sentiment analysis. The classifier has been/can be trained on data provided in the form of positive and negative reviews. The developed system takes reviews as test data and categorizes them as positive or negative.
 
 **objectives completed:**
 
